@@ -1,7 +1,7 @@
 NOTE:
 
   https://drive.google.com/file/d/1wtK9c7AZQhPjATwznIlsowlIhiMeJdYx/view?usp=sharing  //data file is located here
-  code is given in ipynb fiel and research paper is also atttached
+  code is given in ipynb file and research paper is also atttached
 
 Federated Learning (FL) is a decentralized machine learning paradigm that enables multiple clients to collaboratively train a shared model without the need to exchange raw data, thereby preserving data privacy and security. In this project, three distinct models were developed with the following objectives:
 
